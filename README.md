@@ -18,3 +18,6 @@ There are a few options available for the plugin currently. You can set the spee
 $('#').ImageSlide({ speed : 5000,
                     radio : false,
                     arrows : false});
+                    
+                    
+Please add some issues to work on
